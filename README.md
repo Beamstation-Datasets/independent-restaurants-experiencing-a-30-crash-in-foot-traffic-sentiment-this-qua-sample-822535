@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in South Carolina
 
-> Free BeamStation sample export with 62 rows and masked direct-contact fields.
+> Free BeamStation sample export with 89 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `822535` |
 | Location | South Carolina |
 | Category | Food and Drink |
-| Full dataset size | 620 records |
-| Free sample size | 62 records (10.0%) |
-| Last export | 2026-04-16T22:18:50.896534+00:00 |
+| Full dataset size | 895 records |
+| Free sample size | 89 records (9.94%) |
+| Last export | 2026-04-23T17:13:42.501678+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-822535/releases/download/sample-latest/beamstation_822535_food_and_drink-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
